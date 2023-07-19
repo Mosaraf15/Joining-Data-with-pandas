@@ -9,3 +9,4 @@
 3. Merging a table to itself
 4. Merging on indexes
 ## 03 Advanced Merging and Concatenating
+## 04 Merging Ordered and Time-Series Data
